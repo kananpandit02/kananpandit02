@@ -5,6 +5,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/kananpandit02/kananpandit02/main/profile-banner.png" alt="Kanan Pandit — AI/ML Engineer, Generative AI and Agentic Systems" width="100%" />
+
 # Kanan Pandit
 
 ### AI/ML Engineer · Generative AI · Agentic Systems · Voice AI
