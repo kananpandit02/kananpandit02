@@ -1,71 +1,110 @@
+<!--
+  Kanan Pandit | GitHub Profile
+  Focus: production GenAI, agentic systems, retrieval and Voice AI.
+-->
+
+<div align="center">
+
 # Kanan Pandit
 
-**AI/ML Engineer | Generative AI · LLM Applications · RAG · AI Agents**
+### AI/ML Engineer · Generative AI · Agentic Systems · Voice AI
 
-AI/ML Engineer at **Rezolve AI**, building and improving conversational AI and agentic experiences for real-world product workflows. I work across LLM-powered agents, retrieval, API/tool integration, and voice AI—with a focus on making systems useful, reliable, and production-oriented.
+**I build AI systems that can retrieve, reason, use tools, and communicate.**
 
-[Portfolio](https://kananpanditportfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/kananpandit02/) · [Email](mailto:kananpandit02@gmail.com)
+<p>
+  <a href="https://kananpanditportfolio.netlify.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/kananpandit02/">LinkedIn</a> ·
+  <a href="mailto:kananpandit02@gmail.com">Email</a>
+</p>
+
+</div>
 
 ---
 
-## About
+## What I work on
 
-- **Current role:** AI/ML Engineer, Rezolve AI
-- **Focus:** Generative AI, LLM applications, RAG, agentic workflows, conversational and voice AI
-- **Engineering interests:** Agent orchestration, tool calling, retrieval quality, evaluation, latency, and reliability
-- **Foundation:** Mathematics and Big Data Analytics
+I’m an **AI/ML Engineer at Rezolve AI**, working on practical Generative AI and conversational systems. My work spans LLM-powered agents, retrieval-augmented generation, agent orchestration, API and tool integration, and real-time voice experiences.
 
-## Core Skills
+I’m especially interested in the engineering behind dependable AI products: **how agents coordinate, retrieve useful context, handle multi-step tasks, and remain reliable in real user conversations.**
 
-| Category | Skills & Tools |
+| Focus area | What I build and explore |
 |---|---|
-| Languages | Python, SQL, JavaScript |
-| Generative AI | LLMs, prompt engineering, RAG, LangChain, LangGraph |
-| Retrieval & Search | FAISS, Sentence Transformers, vector search, GraphRAG |
-| ML / DL | Scikit-learn, PyTorch, TensorFlow, H2O |
-| NLP & Vision | NLP, Computer Vision, OpenCV |
-| Data & Graph | Apache Spark, Neo4j, NetworkX, DGL |
-| AI Systems | Conversational agents, voice AI, API integration, tool calling |
+| **Agentic AI** | Multi-agent workflows, orchestration, tool calling and task execution |
+| **LLM Applications** | Prompt design, structured outputs, context handling and evaluation |
+| **RAG & GraphRAG** | Document retrieval, semantic search, FAISS, BM25 and knowledge graphs |
+| **Voice AI** | Conversational interfaces, speech pipelines and real-time interaction |
+| **ML & Computer Vision** | Predictive modeling, deep learning and image understanding |
+| **AI Engineering** | Python services, API integration, debugging, testing and reliability |
 
-## Professional Experience
+## Selected work
 
-### AI/ML Engineer — Rezolve AI
-*January 2026 – Present · Internship followed by full-time role*
-
-- Develop and enhance conversational AI and agentic workflows for customer-facing product experiences.
-- Contribute to **Leon**, a voice-based AI concierge for hospitality and food-service scenarios.
-- Work on agent orchestration, tools, API integrations, and multi-step user workflows.
-- Implement and test loyalty-related assistant capabilities, including points, rewards, redemption, and order-context interactions.
-- Improve voice interaction quality and system reliability by investigating latency, idle handling, and conversation-flow issues.
-- Collaborate with engineering and product teams to test, debug, and refine AI features.
-
-## Selected Projects
+A selection of projects across Generative AI, retrieval, machine learning and computer vision.
 
 ### Generative AI & Retrieval
-- **[GraphRAG QA](https://github.com/kananpandit02/GRAPHRAG_QA)** — Explores graph-based retrieval and question answering.
-- **[RAG Q&A](https://github.com/kananpandit02/rag_qna)** — Retrieval-augmented question-answering application.
-- **[RAG 300ms](https://github.com/kananpandit02/rag_300ms)** — Experimentation focused on low-latency RAG.
+
+| Project | What it explores |
+|---|---|
+| [**GraphRAG QA**](https://github.com/kananpandit02/GRAPHRAG_QA) | Multi-document question answering with lexical retrieval, vector search and knowledge-graph reasoning |
+| [**RAG Q&A**](https://github.com/kananpandit02/rag_qna) | Retrieval-augmented question answering |
+| [**RAG 300ms**](https://github.com/kananpandit02/rag_300ms) | Low-latency retrieval-augmented generation experimentation |
 
 ### Machine Learning & Computer Vision
-- **[Wildfire Prediction with H2O](https://github.com/kananpandit02/wildfire_pred_h2o)** — Predictive modeling using the H2O machine-learning ecosystem.
-- **[CycleGAN Streamlit](https://github.com/kananpandit02/cyclegan-streamlit)** — Interactive image-to-image translation application.
-- **[EMNIST Classification](https://github.com/kananpandit02/emnist_classification)** — Handwritten character classification.
-- **[Hand Gesture Control](https://github.com/kananpandit02/hand_gesture_control)** — Computer-vision-based gesture interaction.
 
-### Additional Projects
-- **[The Final Bid](https://github.com/kananpandit02/THE_FINAL_BID)** — Auction-related application.
-- **[Portfolio Website](https://github.com/kananpandit02/kp_portfolio)** — Personal portfolio built to showcase my work.
+| Project | What it explores |
+|---|---|
+| [**Wildfire Prediction with H2O**](https://github.com/kananpandit02/wildfire_pred_h2o) | Distributed machine learning with H2O and satellite-observed fire data |
+| [**CycleGAN Streamlit**](https://github.com/kananpandit02/cyclegan-streamlit) | Image-to-image translation with a CycleGAN application |
+| [**EMNIST Classification**](https://github.com/kananpandit02/emnist_classification) | Comparative classification of handwritten characters |
+| [**Hand Gesture Control**](https://github.com/kananpandit02/hand_gesture_control) | Computer-vision-based gesture interaction |
+
+[Explore all repositories →](https://github.com/kananpandit02?tab=repositories)
+
+## Experience
+
+**AI/ML Engineer — Rezolve AI**  
+*January 2026 – Present · Internship followed by full-time role*
+
+- Build and improve conversational AI and agentic workflows for customer-facing product experiences.
+- Contribute to voice-based concierge and ordering experiences in hospitality and food-service scenarios.
+- Work across agent orchestration, API integrations, tools, memory and multi-step workflows.
+- Implement and test loyalty-related assistant capabilities, including points, rewards and redemption flows.
+- Investigate conversation-flow issues, latency and reliability across voice interactions.
+
+## Technology toolkit
+
+**Languages & backend**  
+Python · SQL · FastAPI · Django REST · REST APIs
+
+**Generative AI & orchestration**  
+LLMs · LangGraph · LangChain · RAG · Tool Calling · Prompt Engineering
+
+**Retrieval, data & graphs**  
+FAISS · Sentence Transformers · BM25 · Neo4j · Apache Spark · NetworkX
+
+**Machine Learning & vision**  
+PyTorch · TensorFlow · Scikit-learn · H2O · OpenCV · NLP · Computer Vision
+
+**Voice & AI systems**  
+Pipecat · LiveKit · WebRTC · STT · TTS · Conversational AI
 
 ## Education
 
-**M.Sc. — Big Data Analytics**  
-Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI)
+- **M.Sc. in Big Data Analytics** — Ramakrishna Mission Vivekananda Educational and Research Institute (RKMVERI)
+- **B.Sc. in Mathematics (Honours)** — Vidyasagar University
 
-**B.Sc. — Mathematics (Honours)**
+## Beyond the code
 
-## Let's Connect
+I enjoy exploring how research ideas become usable AI products—especially around agentic workflows, retrieval quality, voice interaction, evaluation and system reliability.
 
-- [LinkedIn](https://www.linkedin.com/in/kananpandit02/)
-- [Portfolio](https://kananpanditportfolio.netlify.app/)
-- [GitHub](https://github.com/kananpandit02)
-- [Email](mailto:kananpandit02@gmail.com)
+## Find me here
+
+<p align="center">
+  <a href="https://kananpandit02.github.io/">GitHub</a> ·
+  <a href="https://kananpanditportfolio.netlify.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/kananpandit02/">LinkedIn</a> ·
+  <a href="mailto:kananpandit02@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <i>Building practical AI systems, one problem at a time.</i>
+</p>
